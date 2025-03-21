@@ -2,6 +2,8 @@
 
 # Grupprepo: https://github.com/MVP-hustlers/yumyum.git
 
+# Docs: https://docs.google.com/document/d/1do6fHszf3atbaKG7_rUu_udSb-LXgBUg-87Y9lsbF2I/edit?tab=t.0#heading=h.xtvl2ql3u4un
+
 # Individuella reflektioner
 
 Svara på var och en av frågorna nedan individuellt (minst 100 tecken per fråga)
